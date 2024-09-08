@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@envio-dev/hypersync-client": "^0.6.2",
+    "async": "^3.2.4",
+    "axios": "^1.4.0",
+    "chalk": "^4.1.2",
+    "ethers": "^5.5.2",
+    "yargs": "^17.7.2"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
