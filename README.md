@@ -1,4 +1,4 @@
-# Bot Event Tool
+# Bot Event Tool PW by Envio
 
 ## Quickstart
 
